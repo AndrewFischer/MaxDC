@@ -1775,7 +1775,7 @@
     (at 187.286 65.849)
     (descr "Symbol, Highvoltage, Type 1, Copper Top, Small,")
     (tags "Symbol, Highvoltage, Type 1, Copper Top, Small,")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "240VAC" (at -7.5635 -0.849) (layer "F.SilkS")
       (effects (font (size 1.8 1.8) (thickness 0.3)))
       (tstamp bed18950-9d27-4dac-8071-6f0da0225229)
@@ -1803,7 +1803,7 @@
   (footprint "Logos_Symbols:CC-BY-ND-SA" (layer "F.Cu")
     (tedit 0) (tstamp b5f7d3ad-6a80-4294-a171-5a5f21420da4)
     (at 180 92.5)
-    (attr through_hole)
+    (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp 29c92668-a95b-4561-aee3-8d629ac82bbb)
