@@ -6,7 +6,7 @@
 
   (title_block
     (title "MaxDC")
-    (date "2023-01-23")
+    (date "2023-01-24")
     (rev "0.2")
     (company "Author: Andrew Fischer\\nLicense: CC BY-NC 4.0 \\ncreativecommons.org/licenses/by-nc/4.0")
   )
@@ -1777,7 +1777,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 08e532fc-9580-46ad-af97-662135bee1de)
     (property "Reference" "J1" (id 0) (at 36.83 77.3135 0))
-    (property "Value" "Screw_Terminal_01x03" (id 1) (at 36.83 80.0886 0))
+    (property "Value" "L N E" (id 1) (at 36.83 80.0886 0))
     (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-3-5.08_1x03_P5.08mm_Horizontal" (id 2) (at 36.83 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2312,7 +2312,7 @@
     (property "Value" "22nF" (id 1) (at 85.471 93.3066 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Rect_L18.0mm_W7.0mm_P15.00mm_FKS3_FKP3" (id 2) (at 83.5152 95.25 0)
+    (property "Footprint" "Capacitor_THT:C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3" (id 2) (at 83.5152 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 82.55 91.44 0)
@@ -2337,7 +2337,7 @@
     (property "Value" "22nF" (id 1) (at 85.471 79.9716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Rect_L18.0mm_W7.0mm_P15.00mm_FKS3_FKP3" (id 2) (at 83.5152 81.915 0)
+    (property "Footprint" "Capacitor_THT:C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3" (id 2) (at 83.5152 81.915 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 82.55 78.105 0)
@@ -2505,10 +2505,10 @@
       (reference "C8") (unit 1) (value "1nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/f6f2e88a-815f-4070-b649-6d25db987473"
-      (reference "C9") (unit 1) (value "22nF") (footprint "Capacitor_THT:C_Rect_L18.0mm_W7.0mm_P15.00mm_FKS3_FKP3")
+      (reference "C9") (unit 1) (value "22nF") (footprint "Capacitor_THT:C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3")
     )
     (path "/f46e4ec6-65a3-43ca-ba01-562772b6925d"
-      (reference "C10") (unit 1) (value "22nF") (footprint "Capacitor_THT:C_Rect_L18.0mm_W7.0mm_P15.00mm_FKS3_FKP3")
+      (reference "C10") (unit 1) (value "22nF") (footprint "Capacitor_THT:C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3")
     )
     (path "/b1cd0cd8-a0ec-48c6-ae1d-c030f1e9f6c9"
       (reference "CS1") (unit 1) (value "130pF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -2550,7 +2550,7 @@
       (reference "H8") (unit 1) (value "M3") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
     )
     (path "/08e532fc-9580-46ad-af97-662135bee1de"
-      (reference "J1") (unit 1) (value "Screw_Terminal_01x03") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-3-5.08_1x03_P5.08mm_Horizontal")
+      (reference "J1") (unit 1) (value "L N E") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-3-5.08_1x03_P5.08mm_Horizontal")
     )
     (path "/c9494eea-a92e-41ee-83d6-7fde7a0d0d70"
       (reference "J2") (unit 1) (value "Screw_Terminal_01x04") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal")
