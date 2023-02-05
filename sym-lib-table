@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Filter_CoilCraft")(type "KiCad")(uri "${KIPRJMOD}/Filter_CoilCraft.kicad_sym")(options "")(descr ""))
+  (lib (name "MaxDC-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/MaxDC-eagle-import.kicad_sym")(options "")(descr ""))
+)

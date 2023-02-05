@@ -6,8 +6,8 @@
 
   (title_block
     (title "MaxDC")
-    (date "2023-01-24")
-    (rev "0.2")
+    (date "2023-01-28")
+    (rev "0.3")
     (company "Author: Andrew Fischer\\nLicense: CC BY-NC 4.0 \\ncreativecommons.org/licenses/by-nc/4.0")
   )
 
@@ -999,7 +999,7 @@
       (property "Datasheet" "~" (id 3) (at 0 -2.54 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "global ground gnd clean" (id 4) (at 0 0 0)
+      (property "ki_keywords" "power-flag ground gnd clean" (id 4) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "Power symbol creates a global label with name \"Earth_Protective\"" (id 5) (at 0 0 0)
@@ -1063,7 +1063,7 @@
       (property "Datasheet" "~" (id 3) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "flag power" (id 4) (at 0 0 0)
+      (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "Special symbol for telling ERC where power comes from" (id 5) (at 0 0 0)
@@ -1653,6 +1653,11 @@
   (wire (pts (xy 128.27 86.36) (xy 134.62 86.36))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid fdf0ab44-c018-49cf-b884-adec3ea9c6aa)
+  )
+
+  (text "C9 and C10 must be class Y." (at 70.612 120.65 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 9c57587f-0f34-4447-8446-a3d68d87b459)
   )
 
   (global_label "T4" (shape input) (at 215.265 76.835 0) (fields_autoplaced)
