@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC
+1nF,"C6,C8",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C46653
+130pF,"CS1,CS2",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C520003
+1.69K,"RS1,RS2",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C170810

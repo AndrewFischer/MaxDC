@@ -1,7 +1,7 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 C6,1nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,162.5,-144,-90,top
-C8,1nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,180.5,-137,180,top
-CS1,130pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,165.5,-106,0,top
+C8,1nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,180.5,-133.195,180,top
+CS1,130pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,170,-102,0,top
 CS2,130pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,107,-135,180,top
-RS1,1.69K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,170,-106,0,top
+RS1,1.69K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,174.5,-102,0,top
 RS2,1.69K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,107,-137.5,0,top
