@@ -9,4 +9,4 @@ Rsx and CSx are snubbers. They are optional and can be left off the board See [s
 
 
 ### License
-[cc-by-nc](LICENSE.md)
+[cc-by-nc 4.0](LICENSE.md)
