@@ -8,7 +8,7 @@ C9 and C10 must be rated for Class-Y line to ground use.
 Optional parts RS1, RS2, CS1 and CS2 form snubbers. See [snubber.pdf](Datasheets/snubber.pdf) in the Datasheets folder for details on selecting values.
 
 **This project is untested.**<br>  
-:Warning: 240Volts AC is present on this board. Unqualified persons should not attempt to build this project.  
+:warning: 240Volts AC is present on this board. Unqualified persons should not attempt to build this project.  
 
 ### License
 [cc-by-nc 4.0](LICENSE.md)
