@@ -9,7 +9,7 @@ Optional parts RS1, RS2, CS1 and CS2 form snubbers. See [snubber.pdf](Datasheets
 
 <br>  
 :exclamation: Danger of electric shock. 240Volts AC is present on this board. A suitable enclosure is required for safe operation.<br>
-:warning: The files embodied in this repository are provided to you "as-is" and without warranty of any kind, express, implied or otherwise, including without limitation, any warranty of fitness for a particular purpose.
+:warning: The files embodied in this repository are provided to you "as-is" and without warranty of any kind, express, implied or otherwise, including without limitation, any warranty of fitness for a particular purpose. See section 5 of the license.<br>
 **This project is untested.**
 
 ### License
